@@ -9,7 +9,7 @@
 
 body {
   position: relative;
-  background: url(coffee_background/Background.jpg) no-repeat;
+  background: url(Background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
